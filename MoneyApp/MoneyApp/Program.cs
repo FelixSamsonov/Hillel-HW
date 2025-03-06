@@ -4,9 +4,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        Money money = new Money(100, 150);
+        Money money = new Money(100, 250);
         money.ShowAmount();
-        Product product = new Product("Phone", money,  100);
+        Product product = new Product("Phone", money,  15);
         product.PriceWithPromotion();
     }
 }

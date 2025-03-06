@@ -29,7 +29,7 @@ class Product
             if (value > 0 && value < 100)
                 promotion = value / 100;
             else
-                throw new Exception("Promotion cannot be less than 0 or more than 100");
+                throw new Exception("Promotion cannot be less than 0 or more than 99");
         }
     }
     public void PriceWithPromotion()

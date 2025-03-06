@@ -25,7 +25,7 @@ class Money
             if (value >= 0)
                 amountWhole = value;
             else
-                throw new Exception("Amount cannot be less than 0");
+                throw new Exception("Amount cannot be less than 0 ");
         }
     }
     public byte AmountCents
@@ -46,6 +46,6 @@ class Money
     }
      public void ShowAmount()
     {
-        Console.WriteLine($"Your price: {AmountWhole} dollars {AmountCents} cents");
+        Console.WriteLine($"Price: {AmountWhole} dollars {AmountCents} cents");
     }
 }
