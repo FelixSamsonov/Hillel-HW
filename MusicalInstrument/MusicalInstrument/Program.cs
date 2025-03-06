@@ -24,14 +24,17 @@ internal class Program
         trombone.Show();
         cello.Show();
         ukulele.Show();
+        Console.WriteLine();
         violin.Desc();
         trombone.Desc();
         cello.Desc();
-        ukulele.Desc(); 
+        ukulele.Desc();
+        Console.WriteLine();
         violin.Sound();
         trombone.Sound();
         cello.Sound();
         ukulele.Sound();
+        Console.WriteLine();
         violin.History();
         trombone.History();
         cello.History();
