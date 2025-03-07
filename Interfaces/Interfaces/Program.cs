@@ -6,6 +6,6 @@ internal class Program
     {
         MyArray array = new MyArray(356, 15, 23);
         array.Show();
-        array.Show("My first array");
+        array.Show("This is my array");
     }
 }
