@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace Interfaces;
 
-interface IOutput
+interface IMath
 {
-    void Show();
-     void Show(string info);
+    int Max();
+    int Min();
+    float Avg();
+    bool Search(int valueToSearch);
+
 }
