@@ -31,6 +31,7 @@ class MyArray : IOutput, IMath, ISort
     }
     public void Show(string info)
     {
+        Console.WriteLine();
         Show();
         Console.Write($"- {info}");
         Console.WriteLine();
@@ -52,7 +53,7 @@ class MyArray : IOutput, IMath, ISort
     }
     public bool Search(int valueToSearch)
     {
-        Console.Write("Is there number in array? - ");
+        Console.Write($"Is there number {valueToSearch} in array? - ");
         bool found = Numbers.Any(x => x == valueToSearch);
         return found;
     }
