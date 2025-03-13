@@ -3,7 +3,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        Employee employee = new Employee("Din", "Churec", "Manager", 7500, 3);
+        Employee employee = new Employee("Din", "Churec", "Manager", 7500, 8);
         employee++;
         Console.WriteLine(employee.Salary);
         employee--;

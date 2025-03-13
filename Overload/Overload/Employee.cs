@@ -13,7 +13,6 @@ class Employee
     public string Position { get; set; }
     private double salary;
     private byte workExperience;
-    private double bonusCoefficient;
     public double Taxes { get { return Salary * 0.2; }}
 
     public static Employee operator ++(Employee employee)
@@ -50,6 +49,7 @@ class Employee
         Position = position;
         Salary = salary;
         WorkExperience = experience;
+        
     }
     public double Salary
     {
