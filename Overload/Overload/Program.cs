@@ -3,17 +3,17 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        //Employee employee = new Employee("Din", "Churec", "Manager", 7500, 15);
-        //employee++;
-        //Console.WriteLine(employee.Salary);
-        //employee--;
-        //Console.WriteLine(employee.Salary);
-        //Employee emp1 = new Employee("Van", "Chup", "Seller", 5000, 3);
-        //Employee emp2 = new Employee("Mac", "Sipt", "Seller", 3500, 1);
-        //bool result1 = emp1 == emp2;
-        //bool result2 = emp1 > emp2;
-        //Console.WriteLine(result1);
-        //Console.WriteLine(result2);
+        Employee employee = new Employee("Din", "Churec", "Manager", 7500, 3);
+        employee++;
+        Console.WriteLine(employee.Salary);
+        employee--;
+        Console.WriteLine(employee.Salary);
+        Employee emp1 = new Employee("Van", "Chup", "Seller", 5000, 3);
+        Employee emp2 = new Employee("Mac", "Sipt", "Seller", 3500, 1);
+        bool result1 = emp1 == emp2;
+        bool result2 = emp1 > emp2;
+        Console.WriteLine(result1);
+        Console.WriteLine(result2);
         //City city = new City(305000, 215, "Kherson", 1778);
         //city++;
         //Console.WriteLine(city.NumberOfCityzens);
@@ -36,18 +36,18 @@ internal class Program
         //bool cResult2 = creditCard2 > creditCard1;
         //Console.WriteLine(cResult);
         //Console.WriteLine(cResult2);
-        Matrix matrix1 = new Matrix(3, 3);
-        Matrix matrix2 = new Matrix(3, 3);
-        int[,] valuesA = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
-        int[,] valuesB = { { 9, 8, 7 }, { 6, 5, 4 }, { 3, 2, 1 } };
-        matrix1.Values = valuesA;
-        matrix2.Values = valuesB;
+        //Matrix matrix1 = new Matrix(3, 3);
+        //Matrix matrix2 = new Matrix(3, 3);
+        //int[,] valuesA = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+        //int[,] valuesB = { { 9, 8, 7 }, { 6, 5, 4 }, { 3, 2, 1 } };
+        //matrix1.Values = valuesA;
+        //matrix2.Values = valuesB;
         //Matrix plus = matrix1 + matrix2;
         //Matrix minus = matrix1 - matrix2;
         //Matrix multiply = matrix1 * matrix2;
         //matrix1++;
         //matrix2++;
-        bool common = matrix1 == matrix2;
+        //bool common = matrix1 == matrix2;
         //Console.WriteLine("Матриця A:");
         //matrix1.Show();
         //Console.WriteLine("\nМатриця B:");
@@ -59,7 +59,7 @@ internal class Program
         //Console.WriteLine();
         //multiply.Show();
         //Console.WriteLine();
-        Console.WriteLine(common);
+        //Console.WriteLine(common);
 
     }
 }

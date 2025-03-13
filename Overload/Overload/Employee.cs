@@ -50,7 +50,6 @@ class Employee
         Position = position;
         Salary = salary;
         WorkExperience = experience;
-        BonusCoefficient = bonusCoefficient;
     }
     public double Salary
     {
@@ -77,21 +76,20 @@ class Employee
     }
     public double BonusCoefficient
     {
-        get { return bonusCoefficient; }
-        set
+        get
         {
             if (WorkExperience > 0 && WorkExperience <= 3)
-                bonusCoefficient = 1000;
+                return 1000;
             else if (WorkExperience > 3 && WorkExperience <= 5)
-                bonusCoefficient = 1500;
+                return 1500;
             else if (WorkExperience > 5 && WorkExperience <= 10)
-                bonusCoefficient = 2500;
+                return 2500;
             else if (WorkExperience > 10 && WorkExperience <= 15)
-                bonusCoefficient = 5000;
+                return 5000;
             else if (WorkExperience > 15 && WorkExperience <= 20)
-                bonusCoefficient = 7500;
+                return 7500;
             else if (WorkExperience > 20)
-                bonusCoefficient = 10000;
+               return 10000;
             else
                 throw new ArgumentException("Incorrect value");
         }
