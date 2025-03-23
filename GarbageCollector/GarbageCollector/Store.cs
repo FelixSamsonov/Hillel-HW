@@ -28,5 +28,5 @@ class Store : IDisposable
         Console.WriteLine("Information read and deleted");
     }
     ~Store()
-    { Console.WriteLine("All info was deleted"); }
+    { Console.WriteLine("Store is finalized"); }
 }

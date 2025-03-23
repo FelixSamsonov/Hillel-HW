@@ -40,10 +40,10 @@ public Play(string title, string author, Genre genre, short yearOfProduction)
     }
     public void Dispose()
     {
-        Console.WriteLine("Information read");
+        Console.WriteLine("Information disposed");
     }
     ~Play()
     {
-        Console.WriteLine("Information read and deleted");
+        Console.WriteLine("Play is finalized");
     }
 }
