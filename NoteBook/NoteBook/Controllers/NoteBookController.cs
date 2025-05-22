@@ -55,7 +55,7 @@ namespace NoteBook.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(note);
+                _context.Update(note);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
             }

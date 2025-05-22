@@ -16,7 +16,9 @@
             <tr>
                 <th scope="col">Title</th>
                 <th scope="col">Description</th>
+                <th scope="col">CreatedDate</th>
                 <th scope="col">DueDate</th>
+                <th scope="col">HashTag</th>
                 <th></th>
             </tr>
         </thead>
@@ -26,7 +28,9 @@
                 <tr>
                     <td width="20%">@note.Title</td>
                     <td width="20%">@note.Description</td>
-                    <td width="25%">@note.DueDate</td>
+                    <td width="20%">@note.CreatedDate</td>
+                    <td width="20%">@note.DueDate</td>
+                    <td width="20%">@("#" + note.HashTag)</td>
                     <td>
                         <div role="group" class="w-60 btn-group">
                             <span style="margin-right: 5px;">
