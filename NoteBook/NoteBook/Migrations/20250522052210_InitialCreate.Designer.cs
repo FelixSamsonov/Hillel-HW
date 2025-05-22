@@ -12,7 +12,7 @@ using NoteBook.Data;
 namespace NoteBook.Migrations
 {
     [DbContext(typeof(NoteBookDbContext))]
-    [Migration("20250521204551_InitialCreate")]
+    [Migration("20250522052210_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

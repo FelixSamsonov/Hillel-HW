@@ -11,5 +11,6 @@ namespace NoteBook.Models
         public DateTime DueDate { get; set; }
 
         public DateTime CreatedDate { get; set; }
+        public string? HashTag { get; set; }
     }
 }
