@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\bin\Debug\net8.0\MoneyApp.exe
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\bin\Debug\net8.0\MoneyApp.deps.json
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\bin\Debug\net8.0\MoneyApp.runtimeconfig.json
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\bin\Debug\net8.0\MoneyApp.dll
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\bin\Debug\net8.0\MoneyApp.pdb
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.sourcelink.json
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.dll
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\refint\MoneyApp.dll
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.pdb
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\MoneyApp.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Hillel HW\MoneyApp\MoneyApp\obj\Debug\net8.0\ref\MoneyApp.dll

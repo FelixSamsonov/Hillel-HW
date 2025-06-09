@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.exe
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.deps.json
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.runtimeconfig.json
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.dll
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\bin\Debug\net8.0\MultiThreading.pdb
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.sourcelink.json
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.dll
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\refint\MultiThreading.dll
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.pdb
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\MultiThreading.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Hillel HW\MultiThreading\MultiThreading\obj\Debug\net8.0\ref\MultiThreading.dll

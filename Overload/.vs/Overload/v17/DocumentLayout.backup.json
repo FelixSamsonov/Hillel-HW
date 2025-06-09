@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|c:\\users\\herman\\desktop\\hillel hw\\overload\\overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|solutionrelative:overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|c:\\users\\herman\\desktop\\hillel hw\\overload\\overload\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|solutionrelative:overload\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|c:\\users\\herman\\desktop\\hillel hw\\overload\\overload\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|solutionrelative:overload\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|c:\\users\\herman\\desktop\\hillel hw\\overload\\overload\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|solutionrelative:overload\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|c:\\users\\herman\\desktop\\hillel hw\\overload\\overload\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B31D641-FDF0-46B3-9B7C-C18F52A77154}|Overload\\Overload.csproj|solutionrelative:overload\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\Matrix.cs",
+              "RelativeDocumentMoniker": "Overload\\Matrix.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\Matrix.cs",
+              "RelativeToolTip": "Overload\\Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:05:43.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\Employee.cs",
+              "RelativeDocumentMoniker": "Overload\\Employee.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\Employee.cs",
+              "RelativeToolTip": "Overload\\Employee.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:05:14.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\CreditCard.cs",
+              "RelativeDocumentMoniker": "Overload\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\CreditCard.cs",
+              "RelativeToolTip": "Overload\\CreditCard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:04:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\City.cs",
+              "RelativeDocumentMoniker": "Overload\\City.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\City.cs",
+              "RelativeToolTip": "Overload\\City.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:03:59.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\Program.cs",
+              "RelativeDocumentMoniker": "Overload\\Program.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Overload\\Overload\\Program.cs",
+              "RelativeToolTip": "Overload\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:00:53.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

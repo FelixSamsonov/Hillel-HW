@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.exe
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.deps.json
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.runtimeconfig.json
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.dll
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.pdb
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.sourcelink.json
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.dll
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\refint\GarbageCollector.dll
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.pdb
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Hillel HW\GarbageCollector\GarbageCollector\obj\Debug\net8.0\ref\GarbageCollector.dll

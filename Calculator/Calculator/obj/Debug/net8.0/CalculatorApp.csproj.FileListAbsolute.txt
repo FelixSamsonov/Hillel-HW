@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Hillel HW\Calculator\Calculator\obj\Debug\net8.0\ref\CalculatorApp.dll

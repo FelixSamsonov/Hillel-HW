@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\bin\Debug\net8.0\Overload.exe
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\bin\Debug\net8.0\Overload.deps.json
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\bin\Debug\net8.0\Overload.runtimeconfig.json
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\bin\Debug\net8.0\Overload.dll
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\bin\Debug\net8.0\Overload.pdb
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.sourcelink.json
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.dll
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\refint\Overload.dll
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.pdb
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\Overload.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Hillel HW\Overload\Overload\obj\Debug\net8.0\ref\Overload.dll

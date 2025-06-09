@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B327D11A-4747-4567-B388-14CC58ABF501}|Calculator\\CalculatorApp.csproj|c:\\users\\herman\\desktop\\hillel hw\\calculator\\calculator\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327D11A-4747-4567-B388-14CC58ABF501}|Calculator\\CalculatorApp.csproj|solutionrelative:calculator\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327D11A-4747-4567-B388-14CC58ABF501}|Calculator\\CalculatorApp.csproj|c:\\users\\herman\\desktop\\hillel hw\\calculator\\calculator\\calculationdata .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327D11A-4747-4567-B388-14CC58ABF501}|Calculator\\CalculatorApp.csproj|solutionrelative:calculator\\calculationdata .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327D11A-4747-4567-B388-14CC58ABF501}|Calculator\\CalculatorApp.csproj|c:\\users\\herman\\desktop\\hillel hw\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327D11A-4747-4567-B388-14CC58ABF501}|Calculator\\CalculatorApp.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\Calculator\\MainScreen.cs",
+              "RelativeDocumentMoniker": "Calculator\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\Calculator\\MainScreen.cs",
+              "RelativeToolTip": "Calculator\\MainScreen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:23:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationData .cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\Calculator\\CalculationData .cs",
+              "RelativeDocumentMoniker": "Calculator\\CalculationData .cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\Calculator\\CalculationData .cs",
+              "RelativeToolTip": "Calculator\\CalculationData .cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:23:27.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:20:11.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

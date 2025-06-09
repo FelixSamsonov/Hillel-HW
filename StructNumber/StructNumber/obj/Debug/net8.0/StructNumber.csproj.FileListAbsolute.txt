@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\bin\Debug\net8.0\StructNumber.exe
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\bin\Debug\net8.0\StructNumber.deps.json
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\bin\Debug\net8.0\StructNumber.runtimeconfig.json
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\bin\Debug\net8.0\StructNumber.dll
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\bin\Debug\net8.0\StructNumber.pdb
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.sourcelink.json
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.dll
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\refint\StructNumber.dll
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.pdb
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\StructNumber.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Hillel HW\StructNumber\StructNumber\obj\Debug\net8.0\ref\StructNumber.dll

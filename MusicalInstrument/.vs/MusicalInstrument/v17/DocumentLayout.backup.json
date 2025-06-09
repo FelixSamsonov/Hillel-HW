@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|c:\\users\\herman\\desktop\\hillel hw\\musicalinstrument\\musicalinstrument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|solutionrelative:musicalinstrument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|c:\\users\\herman\\desktop\\hillel hw\\musicalinstrument\\musicalinstrument\\musinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|solutionrelative:musicalinstrument\\musinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|c:\\users\\herman\\desktop\\hillel hw\\musicalinstrument\\musicalinstrument\\violin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|solutionrelative:musicalinstrument\\violin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|c:\\users\\herman\\desktop\\hillel hw\\musicalinstrument\\musicalinstrument\\trombone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|solutionrelative:musicalinstrument\\trombone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|c:\\users\\herman\\desktop\\hillel hw\\musicalinstrument\\musicalinstrument\\cello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|solutionrelative:musicalinstrument\\cello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|c:\\users\\herman\\desktop\\hillel hw\\musicalinstrument\\musicalinstrument\\ukulele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE1C89C-1A74-4616-BE73-2AB17A56CE00}|MusicalInstrument\\MusicalInstrument.csproj|solutionrelative:musicalinstrument\\ukulele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ukulele.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Ukulele.cs",
+              "RelativeDocumentMoniker": "MusicalInstrument\\Ukulele.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Ukulele.cs",
+              "RelativeToolTip": "MusicalInstrument\\Ukulele.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:51:03.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cello.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Cello.cs",
+              "RelativeDocumentMoniker": "MusicalInstrument\\Cello.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Cello.cs",
+              "RelativeToolTip": "MusicalInstrument\\Cello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:49:56.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trombone.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Trombone.cs",
+              "RelativeDocumentMoniker": "MusicalInstrument\\Trombone.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Trombone.cs",
+              "RelativeToolTip": "MusicalInstrument\\Trombone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:48:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Violin.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Violin.cs",
+              "RelativeDocumentMoniker": "MusicalInstrument\\Violin.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Violin.cs",
+              "RelativeToolTip": "MusicalInstrument\\Violin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:39:43.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusInstrument.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\MusInstrument.cs",
+              "RelativeDocumentMoniker": "MusicalInstrument\\MusInstrument.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\MusInstrument.cs",
+              "RelativeToolTip": "MusicalInstrument\\MusInstrument.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:56:12.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Program.cs",
+              "RelativeDocumentMoniker": "MusicalInstrument\\Program.cs",
+              "ToolTip": "C:\\Users\\Herman\\Desktop\\Hillel HW\\MusicalInstrument\\MusicalInstrument\\Program.cs",
+              "RelativeToolTip": "MusicalInstrument\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:53:20.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

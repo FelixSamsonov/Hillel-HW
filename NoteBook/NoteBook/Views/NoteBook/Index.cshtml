@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Note>
+
+@{
+    ViewData["Title"] = "Note";
+}
+
+<div class="container shadow p-5">
+    <h1>Notes</h1>
+
+    <div class="col mb-3">
+        <a asp-controller="NoteBook" asp-action="Create" class="btn btn-lg btn-primary"><i class="bi bi-file-plus-fill"></i>Add Note</a>
+    </div>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+                <th scope="col">CreatedDate</th>
+                <th scope="col">DueDate</th>
+                <th scope="col">HashTag</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var note in Model)
+            {
+                <tr>
+                    <td width="20%">@note.Title</td>
+                    <td width="20%">@note.Description</td>
+                    <td width="20%">@note.CreatedDate</td>
+                    <td width="20%">@note.DueDate</td>
+                    <td width="20%">@("#" + note.HashTag)</td>
+                    <td>
+                        <div role="group" class="w-60 btn-group">
+                            <span style="margin-right: 5px;">
+                                <a asp-controller="NoteBook" asp-action="Edit" asp-route-id="@note.Id" class="btn btn-sm btn-secondary"><i class="bi bi-pencil-square"></i>Edit</a>
+                            </span>
+                            <span>
+                                <a asp-controller="NoteBook" asp-action="Delete" asp-route-id="@note.Id" class="btn btn-sm btn-danger"><i class="bi bi-trash-fill"></i>Delete</a>
+                            </span>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
