@@ -7,7 +7,10 @@ namespace InternetShop.WebApi.Data.Repository
     public class EfRepository<TEntity> : IRepository<TEntity> where TEntity : class
     {
         private readonly InternetShopContext _db;
-        public EfRepository(InternetShopContext db) => _db = db;
+        public EfRepository(InternetShopContext db)
+        {
+            _db = db;
+        }
 
         public async Task<IEnumerable<TEntity>> GetAllAsync()
             => await _db.Set<TEntity>().ToListAsync();
@@ -43,7 +46,6 @@ namespace InternetShop.WebApi.Data.Repository
             if (entity == null)
                 return null;
 
-            // Застосовуємо зміни до сутності
             patchDoc.ApplyTo(entity);
 
             await _db.SaveChangesAsync();
